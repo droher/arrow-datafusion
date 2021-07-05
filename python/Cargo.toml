@@ -16,7 +16,7 @@
 # under the License.
 
 [package]
-name = "datafusion"
+name = "datafusion-python"
 version = "0.2.1"
 homepage = "https://github.com/apache/arrow"
 repository = "https://github.com/apache/arrow"
